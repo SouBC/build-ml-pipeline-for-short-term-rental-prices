@@ -1,4 +1,4 @@
-name: eda
+name: eda_new
 conda_env: conda.yml
 
 entry_points:
